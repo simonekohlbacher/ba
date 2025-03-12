@@ -1,6 +1,5 @@
 # Exclude Build
 build/
-dist/
 # Exclude Node Modules
 node_modules/
 # Exclude IDE Folders
