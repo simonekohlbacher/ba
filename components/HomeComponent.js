@@ -82,13 +82,13 @@ export default class HomeComponent extends KWM_Component {
              </simple-text-component>
                         
              <gallery-component
-                image1="/images/haus/außen_sommer_main.JPG"  
+                image1="/images/haus/aussen_sommer_main.JPG"  
                     alt1="Außenansicht Ferienhaus im Sommer"
                 image2="/images/haus/außen_winter_main.JPG"
                     alt2="Außenansicht Ferienhaus im Winter"
-                image3="/images/haus/Wohnküche.JPG"
-                    alt3="Wohnküche mit Bett"
-                image4="/images/haus/Küche.JPG"
+                image3="/images/haus/Wohnkueche.JPG"
+                    alt3="Wohnkueche mit Bett"
+                image4="/images/haus/Kueche.JPG"
                     alt4="Wohnküche"
                 image5="/images/haus/Schlafzimmer_oben_gross.JPG"
                     alt5="Schlafzimmer"    

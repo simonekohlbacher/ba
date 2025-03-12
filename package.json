@@ -1,0 +1,26 @@
+{
+  "name": "fhp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000h\u0000p\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000n\u0000p\u0000x\u0000 \u0000v\u0000i\u0000t\u0000e\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonekohlbacher/fhp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonekohlbacher/fhp/issues"
+  },
+  "homepage": "https://github.com/simonekohlbacher/fhp#readme",
+  "devDependencies": {
+    "vite": "^6.2.1"
+  }
+}
