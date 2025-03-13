@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simonekohlbacher/fhp.git"
+    "url": "git+https://github.com/simonekohlbacher/ba.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simonekohlbacher/fhp/issues"
+    "url": "https://github.com/simonekohlbacher/ba/issues"
   },
-  "homepage": "https://github.com/simonekohlbacher/fhp#readme",
+  "homepage": "https://github.com/simonekohlbacher/ba#readme",
   "devDependencies": {
     "vite": "^6.2.1"
   },

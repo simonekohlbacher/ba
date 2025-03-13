@@ -31,7 +31,7 @@ app.get('/', (req, res) => {
     `;
 
     // Template lesen
-    fs.readFile(path.join(__dirname, 'template.html'), 'utf8', (err, html) => {
+    fs.readFile(path.join(__dirname, 'index.html'), 'utf8', (err, html) => {
         if (err) {
             console.log(err);
             return res.status(500).send("Fehler beim Laden des Templates.");
