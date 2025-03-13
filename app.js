@@ -1,23 +1,23 @@
 
-import HomeComponent from "./components/HomeComponent.js";
-import NotFoundComponent from "./components/NotFoundComponent.js";
-import FerienhausComponent from "./components/FerienhausComponent.js";
-import ErlebenComponent from "./components/ErlebenComponent.js";
-import ImpressumComponent from "./components/ImpressumComponent.js";
-import DatenschutzComponent from "./components/DatenschutzComponent.js";
-import KontaktComponent from "./components/KontaktComponent.js";
+import HomeComponent from "./public/components/HomeComponent.js";
+import NotFoundComponent from "./public/components/NotFoundComponent.js";
+import FerienhausComponent from "./public/components/FerienhausComponent.js";
+import ErlebenComponent from "./public/components/ErlebenComponent.js";
+import ImpressumComponent from "./public/components/ImpressumComponent.js";
+import DatenschutzComponent from "./public/components/DatenschutzComponent.js";
+import KontaktComponent from "./public/components/KontaktComponent.js";
 
-import HeroTeaserComponent from "./components/elements/HeroTeaserComponent.js";
-import GalleryComponent from "./components/elements/GalleryComponent.js";
-import ImageTextInColorComponent from "./components/elements/ImageTextInColorComponent.js";
-import CardComponent from "./components/elements/CardComponent.js";
-import SimpleTextComponent from "./components/elements/SimpleTextComponent.js";
-import HighlightComponent from "./components/elements/HighlightComponent";
-import TextInColorComponent from "./components/elements/TextInColorComponent";
-import Gallery3Component from "./components/elements/Gallery3Component";
+import HeroTeaserComponent from "./public/components/elements/HeroTeaserComponent.js";
+import GalleryComponent from "./public/components/elements/GalleryComponent.js";
+import ImageTextInColorComponent from "./public/components/elements/ImageTextInColorComponent.js";
+import CardComponent from "./public/components/elements/CardComponent.js";
+import SimpleTextComponent from "./public/components/elements/SimpleTextComponent.js";
+import HighlightComponent from "./public/components/elements/HighlightComponent";
+import TextInColorComponent from "./public/components/elements/TextInColorComponent";
+import Gallery3Component from "./public/components/elements/Gallery3Component";
 
-import KWM_Route from './core/kwm-route.js';
-import KWM_Router from './core/kwm-router.js';
+import KWM_Route from './public/core/kwm-route.js';
+import KWM_Router from './public/core/kwm-router.js';
 
 const myRouter = new KWM_Router({
     container: document.getElementById("kwmJS"),

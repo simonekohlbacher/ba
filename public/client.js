@@ -1,3 +1,4 @@
+
 import HomeComponent from "./components/HomeComponent.js";
 import NotFoundComponent from "./components/NotFoundComponent.js";
 import FerienhausComponent from "./components/FerienhausComponent.js";
@@ -11,7 +12,7 @@ import GalleryComponent from "./components/elements/GalleryComponent.js";
 import ImageTextInColorComponent from "./components/elements/ImageTextInColorComponent.js";
 import CardComponent from "./components/elements/CardComponent.js";
 import SimpleTextComponent from "./components/elements/SimpleTextComponent.js";
-import HighlightComponent from "./components/elements/HighlightComponent.js";
+import HighlightComponent from "./components/elements/HighlightComponent.js";;
 
 import KWM_Route from './core/kwm-route.js';
 import KWM_Router from './core/kwm-router.js';
@@ -60,15 +61,3 @@ const myRouter = new KWM_Router({
 });
 
 myRouter.init();
-
-// Navigating to the home page should display the Hero-Teaser similar like in the example picture
-$(document).ready(function(){
-    if (!sessionStorage.getItem('cookieAccepted')) {
-        $('#cookieModal').modal('show');
-    }
-
-    $('#acceptButton').click(function() {
-        $('#cookieModal').modal('hide');
-        sessionStorage.setItem('cookieAccepted', 'true');
-    });
-});

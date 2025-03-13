@@ -62,7 +62,7 @@ export default class ImpressumComponent extends KWM_Component {
            Bildmaterial: Ferienhaus Pürstl, Reiteralm Bergbahnen, Schladming-Dachstein
         </p>
   
-        <a href="/#" class="btn btn-primary">Zurück zur Startseite</a>
+        <a href="/ba/public#" class="btn btn-primary">Zurück zur Startseite</a>
         </div>
            
         </section>

@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
     "build": "vite build",
-    "serve": "node server.js"
+    "serve": "node server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,14 @@
   "homepage": "https://github.com/simonekohlbacher/fhp#readme",
   "devDependencies": {
     "vite": "^6.2.1"
+  },
+  "dependencies": {
+    "esbuild": "^0.25.1",
+    "express": "^4.21.2",
+    "nanoid": "^3.3.9",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.5.3",
+    "rollup": "^4.35.0",
+    "source-map-js": "^1.2.1"
   }
 }

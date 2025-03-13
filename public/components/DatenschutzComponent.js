@@ -69,7 +69,7 @@ export default class DatenschutzComponent extends KWM_Component {
             <p>
               Wir haben organisatorische und technische Schutzmaßnahmen, die wir laufend evaluieren und bei Bedarf anpassen, implementiert, um Ihre von uns gespeicherten und verarbeiteten personenbezogenen Daten zu schützen. Wir behalten uns vor, diese Datenschutzerklärung jederzeit zu ändern und an neue Entwicklungen anzupassen. Die neue Fassung gilt ab Bereitstellung auf unserer Website. Die aktuelle Fassung der Datenschutzerklärung und unser Impressum ist jederzeit auf der Website unter <a href="http://www.reiteralm-ferienhaus.at">www.reiteralm-ferienhaus.at</a> abrufbar.
             </p>
-        <a href="/#" class="btn btn-primary">Zurück zur Startseite</a>
+        <a href="/ba/public#" class="btn btn-primary">Zurück zur Startseite</a>
 
         </div>  
           

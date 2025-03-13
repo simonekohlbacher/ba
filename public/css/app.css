@@ -1,0 +1,13 @@
+/* This is the main styles sheet - it imports all the others */
+
+@import 'layout.css';
+@import 'components/hero-teaser.css';
+@import 'components/text-image-color.css';
+@import 'components/simple-text.css';
+@import 'components/card.css';
+@import 'components/navigation.css';
+@import 'components/footer.css';
+@import 'components/gallery.css';
+@import 'components/highlight.css';
+@import 'components/text-color.css';
+@import 'components/responsive.css';

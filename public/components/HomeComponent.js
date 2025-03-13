@@ -20,7 +20,6 @@ export default class HomeComponent extends KWM_Component {
     template() {
         return /*html*/`
         <section id="main_content">
-           
             <hero-teaser-component
                 heading="Ankommen & Abschalten.." 
                 text= "im Ferienhaus Pürstl - direkt an der Piste der Reiteralm." 
