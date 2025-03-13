@@ -11,7 +11,7 @@ import GalleryComponent from "./components/elements/GalleryComponent.js";
 import ImageTextInColorComponent from "./components/elements/ImageTextInColorComponent.js";
 import CardComponent from "./components/elements/CardComponent.js";
 import SimpleTextComponent from "./components/elements/SimpleTextComponent.js";
-
+import HighlightComponent from "./components/elements/HighlightComponent.js";
 
 import KWM_Route from './core/kwm-route.js';
 import KWM_Router from './core/kwm-router.js';

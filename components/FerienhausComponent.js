@@ -29,7 +29,6 @@ export default class FerienhausComponent extends KWM_Component {
        </simple-text-component>
         
   
-           
        <div class="highlightContainer">
            <highlight-component
                 title="60m²"
@@ -82,15 +81,14 @@ export default class FerienhausComponent extends KWM_Component {
                 image3="/images/haus/Bad.JPG"
                     alt3="Badezimmer"
                
-                image4="/images/haus/Küche.JPG"
+                image4="/images/haus/Kueche.JPG"
                     alt4="Wohnküche"
-                     image5="/images/haus/Bett_Wohnküche.JPG"
+                     image5="/images/haus/Bett_Wohnkueche.JPG"
                     alt5="Wohnküche mit Bett"
-                    
                 image6="/images/haus/Schlafzimmer_oben_gross.JPG"
                     alt6="Schlafzimmer"    
              
-               image7="/images/haus/Wohnküche_TV.JPG"
+               image7="/images/haus/Wohnkueche_TV.JPG"
                     alt7="Wohnküche mit TV"
                 image8="/images/haus/hausplan_1.jpg"
                     alt8="Hausplan"
