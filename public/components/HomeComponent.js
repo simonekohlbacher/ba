@@ -22,11 +22,11 @@ export default class HomeComponent extends KWM_Component {
         <section id="main_content">
             <hero-teaser-component
                 heading="Ankommen & Abschalten.." 
-                text= "im Ferienhaus Pürstl - direkt an der Piste der Reiteralm." 
+                text= "im Ferienhaus Pürstl - direkt an der Reiteralm." 
                 btn-text="" 
                 link="#/" 
                 background-image="/images/outdoor/berge10.JPG" 
-                alt="Skifahren">
+                alt="Berglandschaft">
             </hero-teaser-component>
             
               
