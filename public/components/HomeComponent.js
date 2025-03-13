@@ -25,7 +25,7 @@ export default class HomeComponent extends KWM_Component {
                 text= "im Ferienhaus Pürstl - direkt an der Piste der Reiteralm." 
                 btn-text="" 
                 link="#/" 
-                background-image="/images/outdoor/skiing.jpg" 
+                background-image="/images/outdoor/berge10.JPG" 
                 alt="Skifahren">
             </hero-teaser-component>
             
